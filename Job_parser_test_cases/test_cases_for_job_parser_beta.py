@@ -3,11 +3,13 @@ from sucessfull_job_parser_beta import initialize_sproutsai
 import time
 import os
 
-folder_path_for_unsupported_case = r'C:\Users\dhana\Downloads\jobs description testion\test cases\unsupported_formats'
+#just replace the paths of the respective folders
+folder_path_for_empty_case = r'C:\Users\dhana\Downloads\testing_job_parser\selenium-test-cases\Pdf_files_for_testing\empty_fields_test_cases'
 
-folder_path_for_empty_case = r'C:\Users\dhana\Downloads\jobs description testion\test cases\empty_fields_test_cases'
+folder_path_for_must_parse_case = r'C:\Users\dhana\Downloads\testing_job_parser\selenium-test-cases\Pdf_files_for_testing\must parse'
 
-folder_path_for_must_parse_case = r'C:\Users\dhana\Downloads\jobs description testion\test cases\must parse'
+folder_path_for_unsupported_case = r'C:\Users\dhana\Downloads\testing_job_parser\selenium-test-cases\Pdf_files_for_testing\unsupported_formats'
+
 
 error_jd_paths= []
 empty_jd_paths = []
