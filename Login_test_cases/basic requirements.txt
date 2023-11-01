@@ -1,0 +1,5 @@
+pip install selenium
+pip install pyautogui
+pip install pytest
+
+Chrome for Testing availability (googlechromelabs.github.io)

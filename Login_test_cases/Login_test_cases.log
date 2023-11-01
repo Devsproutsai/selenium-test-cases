@@ -1,0 +1,28 @@
+2023-11-01 16:29:13,905 - Dhanunjaya - INFO - 
+2023-11-01 16:29:15,298 - Dhanunjaya - INFO - success driver is found
+2023-11-01 16:29:15,299 - Dhanunjaya - INFO - Test Case : 1.Providing username instead of formatted email
+2023-11-01 16:29:36,705 - Dhanunjaya - INFO - email_input is entered
+2023-11-01 16:29:36,876 - Dhanunjaya - INFO - password_input is entered
+2023-11-01 16:29:36,944 - Dhanunjaya - INFO - login_button is clicked
+2023-11-01 16:29:41,976 - Dhanunjaya - INFO - exceution completed
+2023-11-01 16:29:41,983 - Dhanunjaya - ERROR -  ---------- Login test failed ------------- 
+2023-11-01 16:29:41,984 - Dhanunjaya - INFO - Test Case : 2.Providing invalid email and password
+2023-11-01 16:29:42,431 - Dhanunjaya - INFO - email_input is entered
+2023-11-01 16:29:42,543 - Dhanunjaya - INFO - password_input is entered
+2023-11-01 16:29:42,606 - Dhanunjaya - INFO - login_button is clicked
+2023-11-01 16:29:47,642 - Dhanunjaya - INFO - wrong password or username
+2023-11-01 16:29:47,642 - Dhanunjaya - INFO - exceution completed
+2023-11-01 16:29:47,653 - Dhanunjaya - ERROR -  ---------- Login test failed ------------- 
+2023-11-01 16:29:47,654 - Dhanunjaya - INFO - Test Case : 3.Providing correct email and wrong password
+2023-11-01 16:29:48,024 - Dhanunjaya - INFO - email_input is entered
+2023-11-01 16:29:48,123 - Dhanunjaya - INFO - password_input is entered
+2023-11-01 16:29:48,176 - Dhanunjaya - INFO - login_button is clicked
+2023-11-01 16:29:53,197 - Dhanunjaya - INFO - wrong password or username
+2023-11-01 16:29:53,198 - Dhanunjaya - INFO - exceution completed
+2023-11-01 16:29:53,207 - Dhanunjaya - ERROR -  ---------- Login test failed ------------- 
+2023-11-01 16:29:53,207 - Dhanunjaya - INFO - Test Case : 4.Providing correct email and correct password
+2023-11-01 16:29:53,626 - Dhanunjaya - INFO - email_input is entered
+2023-11-01 16:29:53,744 - Dhanunjaya - INFO - password_input is entered
+2023-11-01 16:29:53,802 - Dhanunjaya - INFO - login_button is clicked
+2023-11-01 16:29:58,815 - Dhanunjaya - INFO - exceution completed
+2023-11-01 16:29:58,825 - Dhanunjaya - INFO -  ----------- Success Test case -- Login test completed ---------
