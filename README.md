@@ -47,7 +47,10 @@ pytest test_cases_for_job_parser_beta.py -k test_must_not_parse_job_parser
 note : try to give the full path of the file here, if not working like 
 
 pytest C:\Users\dhana\Downloads\testing_job_parser\selenium-test-cases\Job_parser_test_cases\test_cases_for_job_parser_beta.py -k test_must_not_parse_job_parser
+
 ---------------------------------------------------------------------------------------------------------------------------------------
 note : just change the name of the function from the file, if you want to run another type of test case like : 
+
 ---------------------------------------------------------------------------------------------------------------------------------------
-pytest C:\Users\dhana\Downloads\testing_job_parser\selenium-test-cases\Job_parser_test_cases\test_cases_for_job_parser_beta.py -k test_must_not_parse_job_parser
+pytest C:\Users\dhana\Downloads\testing_job_parser\selenium-test-cases\Job_parser_test_cases\test_cases_for_job_parser_beta.py -k test_sucessfull_job_parser
+
