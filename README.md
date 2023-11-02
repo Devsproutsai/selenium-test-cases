@@ -12,10 +12,12 @@ https://googlechromelabs.github.io/chrome-for-testing/
 ---------------------------------------------------------------------------------------------------------------------------------------
 * then open the file from the
   -- Job_parser_test_cases/sucessfull_job_parser_beta.py --
-
+  
+---------------------------------------------------------------------------------------------------------------------------------------
 * then replace the path of the chrome_driver_path with your driver path
 
-* example : 
+*just search for chrome_driver_path and then replace the path  dont remove the letter 'r' from it, just replace the path in the quotes like
+**example : **
 chrome_driver_path = r'C:\Users\dhana\Downloads\chromedriver-win64\chromedriver-win64\chromedriver.exe'
 
 ---------------------------------------------------------------------------------------------------------------------------------------
