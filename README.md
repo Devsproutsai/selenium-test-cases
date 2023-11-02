@@ -6,11 +6,21 @@ https://googlechromelabs.github.io/chrome-for-testing/
 
 * once the chrome is installed, extract the chrome driver and try to copy the path of the chrome driver.exe
 
-* then open the file from the -- Job_parser_test_cases/sucessfull_job_parser_beta.py -- and then replace the path of the chrome_driver_path with your driver path
-  example : 
+  ![image](https://github.com/Devsproutsai/selenium-test-cases/assets/145147092/3162975e-3bc2-410a-b79d-f11735bae028)
+
+
+* then open the file from the
+  -- Job_parser_test_cases/sucessfull_job_parser_beta.py --
+
+* then replace the path of the chrome_driver_path with your driver path
+
+* example : 
 chrome_driver_path = r'C:\Users\dhana\Downloads\chromedriver-win64\chromedriver-win64\chromedriver.exe'
 
-* then open the file test_cases_for_job_parser_beta.py and try to replace the paths of this files from the Pdf_files_for_testing folder
+
+* then open the file test_cases_for_job_parser_beta.py
+
+* try to replace the paths of this files from the Pdf_files_for_testing folder
 
 folder_path_for_unsupported_case = r'C:\Users\dhana\Downloads\testing_job_parser\testing-code\Pdf_files_for_testing\Unsupportive_test_cases'
 
@@ -21,8 +31,9 @@ folder_path_for_must_parse_case = r'C:\Users\dhana\Downloads\testing_job_parser\
 folder_path_for_must_not_parse_case = r'C:\Users\dhana\Downloads\testing_job_parser\testing-code\Pdf_files_for_testing\Must_not_parse_test_cases'
 
 
-*
-*
-*
+once the folder paths are replaced :
 * then in the terminal try to run this command
 pytest test_cases_for_job_parser_beta.py -k test_must_not_parse_job_parser
+
+
+
