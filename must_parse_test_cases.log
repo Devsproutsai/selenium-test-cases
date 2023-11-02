@@ -1,0 +1,242 @@
+2023-11-02 18:38:17,779 - Dhanunjaya - INFO - 
+2023-11-02 18:38:19,634 - Dhanunjaya - INFO - success driver is found
+2023-11-02 18:38:19,635 - Dhanunjaya - INFO - Test Case :  ---- sucessfull login ----
+2023-11-02 18:38:27,169 - Dhanunjaya - ERROR - Failed to enter the email and password
+2023-11-02 18:38:27,170 - Dhanunjaya - INFO - exceution completed
+2023-11-02 18:38:27,170 - Dhanunjaya - INFO -   ---------------------------------------------------------  
+2023-11-02 18:38:27,170 - Dhanunjaya - INFO -  Name the test case :  ------ normal job parsing without handling any errors --------  
+2023-11-02 18:38:27,181 - Dhanunjaya - INFO - 
+2023-11-02 18:38:27,185 - Dhanunjaya - INFO - entered the post_new_job
+2023-11-02 18:38:27,270 - Dhanunjaya - ERROR -  error in the job parser Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF775897D12+55474]
+	(No symbol) [0x00007FF7758077C2]
+	(No symbol) [0x00007FF7756BE0EB]
+	(No symbol) [0x00007FF77569E528]
+	(No symbol) [0x00007FF775723B77]
+	(No symbol) [0x00007FF7757375BF]
+	(No symbol) [0x00007FF77571EF33]
+	(No symbol) [0x00007FF7756F3D41]
+	(No symbol) [0x00007FF7756F4F84]
+	GetHandleVerifier [0x00007FF775BFB762+3609346]
+	GetHandleVerifier [0x00007FF775C51A80+3962400]
+	GetHandleVerifier [0x00007FF775C49F0F+3930799]
+	GetHandleVerifier [0x00007FF775933CA6+694342]
+	(No symbol) [0x00007FF775812218]
+	(No symbol) [0x00007FF77580E484]
+	(No symbol) [0x00007FF77580E5B2]
+	(No symbol) [0x00007FF7757FEE13]
+	BaseThreadInitThunk [0x00007FFBB7E77344+20]
+	RtlUserThreadStart [0x00007FFBB88026B1+33]
+ 
+2023-11-02 18:38:56,233 - Dhanunjaya - INFO - 
+2023-11-02 18:38:57,651 - Dhanunjaya - INFO - success driver is found
+2023-11-02 18:38:57,651 - Dhanunjaya - INFO - Test Case :  ---- sucessfull login ----
+2023-11-02 18:39:10,147 - Dhanunjaya - INFO - email_input is entered
+2023-11-02 18:39:10,313 - Dhanunjaya - INFO - password_input is entered
+2023-11-02 18:39:10,383 - Dhanunjaya - INFO - login_button is clicked
+2023-11-02 18:39:15,400 - Dhanunjaya - INFO - exceution completed
+2023-11-02 18:39:15,400 - Dhanunjaya - INFO -   ---------------------------------------------------------  
+2023-11-02 18:39:15,400 - Dhanunjaya - INFO -  Name the test case :  ------ normal job parsing without handling any errors --------  
+2023-11-02 18:39:15,400 - Dhanunjaya - INFO - 
+2023-11-02 18:39:15,400 - Dhanunjaya - INFO - entered the post_new_job
+2023-11-02 18:39:20,894 - Dhanunjaya - INFO - Clicked 'Post new job'
+2023-11-02 18:39:21,004 - Dhanunjaya - INFO - Clicked 'Upload document'
+2023-11-02 18:39:23,349 - Dhanunjaya - INFO - Entered file path and confirmed
+2023-11-02 18:39:23,949 - Dhanunjaya - INFO -  Uploaded the document : 10 PDF with Inconsistent Formatting.pdf 
+2023-11-02 18:39:26,637 - Dhanunjaya - ERROR - error in Parsed field
+2023-11-02 18:39:26,639 - Dhanunjaya - ERROR -  error in getting the company_name 
+2023-11-02 18:39:26,654 - Dhanunjaya - ERROR -  error in taking the details from the webpage: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF775897D12+55474]
+	(No symbol) [0x00007FF7758077C2]
+	(No symbol) [0x00007FF7756BE0EB]
+	(No symbol) [0x00007FF77569E528]
+	(No symbol) [0x00007FF775723B77]
+	(No symbol) [0x00007FF7757375BF]
+	(No symbol) [0x00007FF77571EF33]
+	(No symbol) [0x00007FF7756F3D41]
+	(No symbol) [0x00007FF7756F4F84]
+	GetHandleVerifier [0x00007FF775BFB762+3609346]
+	GetHandleVerifier [0x00007FF775C51A80+3962400]
+	GetHandleVerifier [0x00007FF775C49F0F+3930799]
+	GetHandleVerifier [0x00007FF775933CA6+694342]
+	(No symbol) [0x00007FF775812218]
+	(No symbol) [0x00007FF77580E484]
+	(No symbol) [0x00007FF77580E5B2]
+	(No symbol) [0x00007FF7757FEE13]
+	BaseThreadInitThunk [0x00007FFBB7E77344+20]
+	RtlUserThreadStart [0x00007FFBB88026B1+33]
+
+2023-11-02 18:39:26,773 - Dhanunjaya - ERROR - error in  Active section Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF775897D12+55474]
+	(No symbol) [0x00007FF7758077C2]
+	(No symbol) [0x00007FF7756BE0EB]
+	(No symbol) [0x00007FF77569E528]
+	(No symbol) [0x00007FF775723B77]
+	(No symbol) [0x00007FF7757375BF]
+	(No symbol) [0x00007FF77571EF33]
+	(No symbol) [0x00007FF7756F3D41]
+	(No symbol) [0x00007FF7756F4F84]
+	GetHandleVerifier [0x00007FF775BFB762+3609346]
+	GetHandleVerifier [0x00007FF775C51A80+3962400]
+	GetHandleVerifier [0x00007FF775C49F0F+3930799]
+	GetHandleVerifier [0x00007FF775933CA6+694342]
+	(No symbol) [0x00007FF775812218]
+	(No symbol) [0x00007FF77580E484]
+	(No symbol) [0x00007FF77580E5B2]
+	(No symbol) [0x00007FF7757FEE13]
+	BaseThreadInitThunk [0x00007FFBB7E77344+20]
+	RtlUserThreadStart [0x00007FFBB88026B1+33]
+
+2023-11-02 18:39:26,773 - Dhanunjaya - ERROR -  error in the job parser cannot access local variable 'elapsed_time' where it is not associated with a value 
+2023-11-02 18:39:36,938 - Dhanunjaya - INFO - 
+2023-11-02 18:39:38,372 - Dhanunjaya - INFO - success driver is found
+2023-11-02 18:39:38,372 - Dhanunjaya - INFO - Test Case :  ---- sucessfull login ----
+2023-11-02 18:39:49,009 - Dhanunjaya - INFO - email_input is entered
+2023-11-02 18:39:49,196 - Dhanunjaya - INFO - password_input is entered
+2023-11-02 18:39:49,271 - Dhanunjaya - INFO - login_button is clicked
+2023-11-02 18:39:54,311 - Dhanunjaya - INFO - exceution completed
+2023-11-02 18:39:54,311 - Dhanunjaya - INFO -   ---------------------------------------------------------  
+2023-11-02 18:39:54,311 - Dhanunjaya - INFO -  Name the test case :  ------ normal job parsing without handling any errors --------  
+2023-11-02 18:39:54,312 - Dhanunjaya - INFO - 
+2023-11-02 18:39:54,312 - Dhanunjaya - INFO - entered the post_new_job
+2023-11-02 18:39:59,909 - Dhanunjaya - INFO - Clicked 'Post new job'
+2023-11-02 18:40:00,055 - Dhanunjaya - INFO - Clicked 'Upload document'
+2023-11-02 18:40:02,403 - Dhanunjaya - INFO - Entered file path and confirmed
+2023-11-02 18:40:16,918 - Dhanunjaya - INFO -  Uploaded the document : 8 PDF with Complex Tables.pdf 
+2023-11-02 18:40:20,052 - Dhanunjaya - INFO - clicked the autofill_button
+2023-11-02 18:40:20,081 - Dhanunjaya - INFO -  Company_name : Microsoft 
+2023-11-02 18:40:20,104 - Dhanunjaya - INFO -  job_title : Research Intern - Azure Systems Research 
+2023-11-02 18:40:20,204 - Dhanunjaya - INFO -  job_type : intern 
+2023-11-02 18:40:22,257 - Dhanunjaya - ERROR -  error in getting the Department 
+2023-11-02 18:40:24,472 - Dhanunjaya - ERROR -  error in getting the workplace_type 
+2023-11-02 18:40:24,527 - Dhanunjaya - INFO -  location : Redmond, WA
+2023-11-02 18:40:24,564 - Dhanunjaya - INFO - ---- Main Skill Category ---- : AI, Machine Learning and Deep Learning Skills 
+2023-11-02 18:40:24,625 - Dhanunjaya - INFO -  Sub Skills : Machine Learning 
+2023-11-02 18:40:24,626 - Dhanunjaya - INFO -  Sub Skills : PyTorch 
+2023-11-02 18:40:24,626 - Dhanunjaya - INFO -  Sub Skills : Computer Vision 
+2023-11-02 18:40:24,626 - Dhanunjaya - INFO -  Sub Skills : Natural Language Processing 
+2023-11-02 18:40:24,626 - Dhanunjaya - INFO -  Sub Skills : Transformer models 
+2023-11-02 18:40:24,645 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Computer Science, Programming and Automation Skills 
+2023-11-02 18:40:24,664 - Dhanunjaya - INFO -  Sub Skills : Python 
+2023-11-02 18:40:24,683 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Data Analysis, Visualization and Predictive Modeling Skills 
+2023-11-02 18:40:24,701 - Dhanunjaya - INFO -  Sub Skills : scikit-learn 
+2023-11-02 18:40:24,719 - Dhanunjaya - INFO - ---- Main Skill Category ---- : API Development and Integration Expertise 
+2023-11-02 18:40:24,737 - Dhanunjaya - INFO -  Sub Skills : REST APIs 
+2023-11-02 18:40:24,754 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Advanced Infrastructure and Distributed Systems Development 
+2023-11-02 18:40:24,795 - Dhanunjaya - INFO -  Sub Skills : Microservices 
+2023-11-02 18:40:24,795 - Dhanunjaya - INFO -  Sub Skills : Continuous Integration 
+2023-11-02 18:40:24,795 - Dhanunjaya - INFO -  Sub Skills : Jenkins 
+2023-11-02 18:40:24,795 - Dhanunjaya - INFO -  Sub Skills : Azure DevOps 
+2023-11-02 18:40:24,813 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Communication, Ethics, and Team Collaboration 
+2023-11-02 18:40:24,847 - Dhanunjaya - INFO -  Sub Skills : Collaboration 
+2023-11-02 18:40:24,847 - Dhanunjaya - INFO -  Sub Skills : Interpersonal skills 
+2023-11-02 18:40:24,847 - Dhanunjaya - INFO -  Sub Skills : Communication 
+2023-11-02 18:40:24,864 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Multilingual Skills and Cultural Competency 
+2023-11-02 18:40:24,882 - Dhanunjaya - INFO -  Sub Skills : Cross-group and cross-culture collaboration 
+2023-11-02 18:40:24,898 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Personal Development Skills 
+2023-11-02 18:40:24,924 - Dhanunjaya - INFO -  Sub Skills : Unconventional thinking 
+2023-11-02 18:40:24,924 - Dhanunjaya - INFO -  Sub Skills : Initiative 
+2023-11-02 18:40:24,942 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Engineering, Environmental Sustainability and Industrial Manufacturing Skills 
+2023-11-02 18:40:24,959 - Dhanunjaya - INFO -  Sub Skills : Power efficiency and sustainability 
+2023-11-02 18:40:24,979 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Cloud Computing and Platform Services 
+2023-11-02 18:40:24,998 - Dhanunjaya - INFO -  Sub Skills : Serverless computing 
+2023-11-02 18:40:25,016 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Documentation, Record Keeping and Data Recovery Skills 
+2023-11-02 18:40:25,033 - Dhanunjaya - INFO -  Sub Skills : Documentation 
+2023-11-02 18:40:25,050 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Research Communication and Reporting Skills 
+2023-11-02 18:40:25,067 - Dhanunjaya - INFO -  Sub Skills : Research publication 
+2023-11-02 18:40:25,084 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Misc 
+2023-11-02 18:40:25,109 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Misc 
+2023-11-02 18:40:25,134 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Misc 
+2023-11-02 18:40:25,158 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Misc 
+2023-11-02 18:40:25,181 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Misc 
+2023-11-02 18:40:25,205 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Misc 
+2023-11-02 18:40:25,341 - Dhanunjaya - INFO -  Currency : $ 
+2023-11-02 18:40:25,341 - Dhanunjaya - INFO -  Minimum Salary :  
+2023-11-02 18:40:25,341 - Dhanunjaya - INFO -  Maximum Salary :  
+2023-11-02 18:40:25,341 - Dhanunjaya - INFO -  Salary Duration : Per year 
+2023-11-02 18:40:27,389 - Dhanunjaya - ERROR -  error in getting the Benefits_offered 
+2023-11-02 18:40:27,447 - Dhanunjaya - INFO -  Minimum Years of experience:  
+2023-11-02 18:40:27,492 - Dhanunjaya - INFO -  Minimum Years of experience:  
+2023-11-02 18:40:27,608 - Dhanunjaya - INFO -  Notice period : Select 
+2023-11-02 18:40:27,632 - Dhanunjaya - INFO -  Roles_and_responsibilities : Engage early with mentors to formulate a plan of work. Clearly and frequently document and communicate progress. Participate in relevant meetings. Have a Master's or PhD program in Computer Science or related STEM field, or currently enrolled in a Bachelor's program in Computer Science or related STEM field with at least 1 year of experience. Develop original research agendas. Collaborate effectively with other researchers and product development teams. Excellent interpersonal skills. Think unconventionally to derive creative and innovative solutions. Be physically located in the manager's Microsoft worksite location for the duration of the internship. Submit a minimum of two reference letters. 
+2023-11-02 18:40:27,652 - Dhanunjaya - INFO - experience_and_education : Currently enrolled in a Master's or PhD program in Computer Science or related STEM field OR currently enrolled in a Bachelor's program in Computer Science or related STEM field and have at least 1 year of experience in conducting research.
+2023-11-02 18:40:27,652 - Dhanunjaya - INFO - Job Parser took 2.93 seconds for parsing the job_descriptions
+2023-11-02 18:40:27,843 - Dhanunjaya - INFO - Save and exited Active clicked
+2023-11-02 18:40:27,939 - Dhanunjaya - INFO - Publish clicked
+2023-11-02 18:40:27,940 - Dhanunjaya - INFO - Element lookup took 10.90 seconds
+2023-11-02 18:40:30,946 - Dhanunjaya - INFO -  --------------------
+2023-11-02 18:40:30,946 - Dhanunjaya - INFO -  ----------- Success Test case -- job parsed successfully ---------
+2023-11-02 18:40:30,946 - Dhanunjaya - INFO -  --------------------
+2023-11-02 18:40:33,564 - Dhanunjaya - INFO -  clicked the job_title_element 
+2023-11-02 18:40:35,704 - Dhanunjaya - INFO -  clicked the menu 
+2023-11-02 18:40:35,792 - Dhanunjaya - INFO -  clicked the delete_job_element 
+2023-11-02 18:40:40,479 - Dhanunjaya - INFO -  clicked the confirm_button 
+2023-11-02 18:40:40,479 - Dhanunjaya - INFO -  sucessfully deleted the job title Research Intern - Azure Systems Research 
+2023-11-02 18:40:40,480 - Dhanunjaya - INFO -   ---------------------------------------------------------  
+2023-11-02 18:40:40,480 - Dhanunjaya - INFO -  Name the test case :  ------ normal job parsing without handling any errors --------  
+2023-11-02 18:40:40,481 - Dhanunjaya - INFO - 
+2023-11-02 18:40:40,481 - Dhanunjaya - INFO - entered the post_new_job
+2023-11-02 18:40:46,013 - Dhanunjaya - INFO - Clicked 'Post new job'
+2023-11-02 18:40:46,147 - Dhanunjaya - INFO - Clicked 'Upload document'
+2023-11-02 18:40:48,481 - Dhanunjaya - INFO - Entered file path and confirmed
+2023-11-02 18:40:57,245 - Dhanunjaya - INFO -  Uploaded the document : 10 PDF with Inconsistent Formatting.pdf 
+2023-11-02 18:41:18,130 - Dhanunjaya - ERROR - error in Parsed field
+2023-11-02 18:41:18,132 - Dhanunjaya - ERROR -  error in getting the company_name 
+2023-11-02 18:41:18,134 - Dhanunjaya - ERROR -  error in taking the details from the webpage: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF775897D12+55474]
+	(No symbol) [0x00007FF7758077C2]
+	(No symbol) [0x00007FF7756BE0EB]
+	(No symbol) [0x00007FF77569E528]
+	(No symbol) [0x00007FF775723B77]
+	(No symbol) [0x00007FF7757375BF]
+	(No symbol) [0x00007FF77571EF33]
+	(No symbol) [0x00007FF7756F3D41]
+	(No symbol) [0x00007FF7756F4F84]
+	GetHandleVerifier [0x00007FF775BFB762+3609346]
+	GetHandleVerifier [0x00007FF775C51A80+3962400]
+	GetHandleVerifier [0x00007FF775C49F0F+3930799]
+	GetHandleVerifier [0x00007FF775933CA6+694342]
+	(No symbol) [0x00007FF775812218]
+	(No symbol) [0x00007FF77580E484]
+	(No symbol) [0x00007FF77580E5B2]
+	(No symbol) [0x00007FF7757FEE13]
+	BaseThreadInitThunk [0x00007FFBB7E77344+20]
+	RtlUserThreadStart [0x00007FFBB88026B1+33]
+
+2023-11-02 18:41:18,138 - Dhanunjaya - ERROR - error in  Active section Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF775897D12+55474]
+	(No symbol) [0x00007FF7758077C2]
+	(No symbol) [0x00007FF7756BE0EB]
+	(No symbol) [0x00007FF77569E528]
+	(No symbol) [0x00007FF775723B77]
+	(No symbol) [0x00007FF7757375BF]
+	(No symbol) [0x00007FF77571EF33]
+	(No symbol) [0x00007FF7756F3D41]
+	(No symbol) [0x00007FF7756F4F84]
+	GetHandleVerifier [0x00007FF775BFB762+3609346]
+	GetHandleVerifier [0x00007FF775C51A80+3962400]
+	GetHandleVerifier [0x00007FF775C49F0F+3930799]
+	GetHandleVerifier [0x00007FF775933CA6+694342]
+	(No symbol) [0x00007FF775812218]
+	(No symbol) [0x00007FF77580E484]
+	(No symbol) [0x00007FF77580E5B2]
+	(No symbol) [0x00007FF7757FEE13]
+	BaseThreadInitThunk [0x00007FFBB7E77344+20]
+	RtlUserThreadStart [0x00007FFBB88026B1+33]
+
+2023-11-02 18:41:18,138 - Dhanunjaya - ERROR -  error in the job parser cannot access local variable 'elapsed_time' where it is not associated with a value 

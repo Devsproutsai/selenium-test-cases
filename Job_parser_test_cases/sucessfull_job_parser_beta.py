@@ -244,11 +244,14 @@ class SproutsaiAutomation:
                                 
                                 
                             try:
-                                job_description_elements = WebDriverWait(self.driver, 2).until(EC.presence_of_element_located((By.CSS_SELECTOR, '.editor-class .public-DraftEditor-content')))
+                                job_description_elements = WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '.editor-class .public-DraftEditor-content')))
                                 job_description = job_description_elements.text
                                 self.logger.info(f" job_description : { job_description } ")
                                 
                             except NoSuchElementException as e:
+                                self.logger.error(f" error in getting the job description ")
+
+                            except Exception as e:
                                 self.logger.error(f" error in getting the job description ")
 
                                 

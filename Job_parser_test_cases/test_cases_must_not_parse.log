@@ -1,0 +1,454 @@
+
+2023-11-02 20:54:14,019 - Dhanunjaya - INFO -   ---------------------------------------------------------  
+2023-11-02 20:54:14,020 - Dhanunjaya - INFO -  Name the test case :  ------ normal job parsing without handling any errors --------  
+2023-11-02 20:54:14,020 - Dhanunjaya - INFO - 
+2023-11-02 20:54:14,021 - Dhanunjaya - INFO - entered the post_new_job
+2023-11-02 20:54:19,582 - Dhanunjaya - INFO - Clicked 'Post new job'
+2023-11-02 20:54:19,718 - Dhanunjaya - INFO - Clicked 'Upload document'
+2023-11-02 20:54:22,081 - Dhanunjaya - INFO - Entered file path and confirmed
+2023-11-02 20:54:22,745 - Dhanunjaya - INFO -  Uploaded the document : TC015 PDF with Corrupted Content.pdf 
+2023-11-02 20:54:25,021 - Dhanunjaya - INFO - clicked the autofill_button
+2023-11-02 20:54:25,049 - Dhanunjaya - INFO -  Company_name : Tr0m@n 
+2023-11-02 20:54:25,078 - Dhanunjaya - INFO -  job_title : Scientist 
+2023-11-02 20:54:25,173 - Dhanunjaya - INFO -  job_type : full-time 
+2023-11-02 20:54:27,219 - Dhanunjaya - ERROR -  error in getting the Department 
+2023-11-02 20:54:29,276 - Dhanunjaya - ERROR -  error in getting the workplace_type 
+2023-11-02 20:54:29,311 - Dhanunjaya - INFO -  location : !nd!@
+2023-11-02 20:54:29,359 - Dhanunjaya - INFO - ---- Main Skill Category ---- : AI, Machine Learning and Deep Learning Skills 
+2023-11-02 20:54:29,458 - Dhanunjaya - INFO -  Sub Skills : Data Science 
+2023-11-02 20:54:29,458 - Dhanunjaya - INFO -  Sub Skills : Data Analysis 
+2023-11-02 20:54:29,458 - Dhanunjaya - INFO -  Sub Skills : Data Storage and Organization 
+2023-11-02 20:54:29,458 - Dhanunjaya - INFO -  Sub Skills : Google NLP Models 
+2023-11-02 20:54:29,458 - Dhanunjaya - INFO -  Sub Skills : GPT Models 
+2023-11-02 20:54:29,459 - Dhanunjaya - INFO -  Sub Skills : Machine Learning Techniques 
+2023-11-02 20:54:29,482 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Web Development & Programming Skills 
+2023-11-02 20:54:29,509 - Dhanunjaya - INFO -  Sub Skills : Web Scraping 
+2023-11-02 20:54:29,534 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Computer Science, Programming and Automation Skills 
+2023-11-02 20:54:29,561 - Dhanunjaya - INFO -  Sub Skills : Algorithm Development 
+2023-11-02 20:54:29,586 - Dhanunjaya - INFO - ---- Main Skill Category ---- : API Development and Integration Expertise 
+2023-11-02 20:54:29,636 - Dhanunjaya - INFO -  Sub Skills : FastAPI 
+2023-11-02 20:54:29,637 - Dhanunjaya - INFO -  Sub Skills : RESTful APIs 
+2023-11-02 20:54:29,667 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Cloud Computing and Platform Services 
+2023-11-02 20:54:29,699 - Dhanunjaya - INFO -  Sub Skills : AWS Cloud Platform 
+2023-11-02 20:54:29,727 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Data Analysis, Visualization and Predictive Modeling Skills 
+2023-11-02 20:54:29,759 - Dhanunjaya - INFO -  Sub Skills : GraphQL APIs 
+2023-11-02 20:54:29,784 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Data Management and Big Data Processing Skills 
+2023-11-02 20:54:29,818 - Dhanunjaya - INFO -  Sub Skills : SQL 
+2023-11-02 20:54:29,845 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Communication, Ethics, and Team Collaboration 
+2023-11-02 20:54:29,876 - Dhanunjaya - INFO -  Sub Skills : Collaboration 
+2023-11-02 20:54:29,908 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Misc 
+2023-11-02 20:54:29,946 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Misc 
+2023-11-02 20:54:30,133 - Dhanunjaya - INFO -  Currency : $ 
+2023-11-02 20:54:30,133 - Dhanunjaya - INFO -  Minimum Salary :  
+2023-11-02 20:54:30,133 - Dhanunjaya - INFO -  Maximum Salary :  
+2023-11-02 20:54:30,133 - Dhanunjaya - INFO -  Salary Duration : Per year 
+2023-11-02 20:54:32,192 - Dhanunjaya - ERROR -  error in getting the Benefits_offered 
+2023-11-02 20:54:32,226 - Dhanunjaya - INFO -  Minimum Years of experience:  
+2023-11-02 20:54:32,261 - Dhanunjaya - INFO -  Minimum Years of experience:  
+2023-11-02 20:54:32,334 - Dhanunjaya - INFO -  Notice period : Select 
+2023-11-02 20:54:32,361 - Dhanunjaya - INFO -  Roles_and_responsibilities : - Collaborate with the backend team to develop fast and robust apps leveraging data and applying machine learning techniques. - Analyze collected data to enrich information about users and their backgrounds. - Develop and optimize data processes using technologies such as open source intelligence, Google NLP models, and GPT models. - Ensure the security, scalability, and compliance of our backend system, adhering to industry standards. - Extract data from various online sources and web platforms, and store and organize the data. 
+2023-11-02 20:54:32,384 - Dhanunjaya - INFO - experience_and_education : N/A
+2023-11-02 20:54:32,384 - Dhanunjaya - INFO - Job Parser took 2.07 seconds for parsing the job_descriptions
+2023-11-02 20:54:32,530 - Dhanunjaya - INFO - Save and exited Active clicked
+2023-11-02 20:54:32,647 - Dhanunjaya - INFO - Publish clicked
+2023-11-02 20:54:32,647 - Dhanunjaya - INFO - Element lookup took 9.78 seconds
+2023-11-02 20:54:35,655 - Dhanunjaya - INFO -  --------------------
+2023-11-02 20:54:35,655 - Dhanunjaya - INFO -  ----------- Success Test case -- job parsed successfully ---------
+2023-11-02 20:54:35,655 - Dhanunjaya - INFO -  --------------------
+2023-11-02 20:54:38,429 - Dhanunjaya - INFO -  clicked the job_title_element 
+2023-11-02 20:54:40,649 - Dhanunjaya - INFO -  clicked the menu 
+2023-11-02 20:54:40,798 - Dhanunjaya - INFO -  clicked the delete_job_element 
+2023-11-02 20:54:45,414 - Dhanunjaya - INFO -  clicked the confirm_button 
+2023-11-02 20:54:45,414 - Dhanunjaya - INFO -  sucessfully deleted the job title Scientist 
+2023-11-02 20:54:45,414 - Dhanunjaya - INFO -   ---------------------------------------------------------  
+2023-11-02 20:54:45,414 - Dhanunjaya - INFO -  Name the test case :  ------ normal job parsing without handling any errors --------  
+2023-11-02 20:54:45,414 - Dhanunjaya - INFO - 
+2023-11-02 20:54:45,415 - Dhanunjaya - INFO - entered the post_new_job
+2023-11-02 20:54:50,958 - Dhanunjaya - INFO - Clicked 'Post new job'
+2023-11-02 20:54:51,112 - Dhanunjaya - INFO - Clicked 'Upload document'
+2023-11-02 20:54:53,435 - Dhanunjaya - INFO - Entered file path and confirmed
+2023-11-02 20:54:54,176 - Dhanunjaya - INFO -  Uploaded the document : TC016 PDF with Duplicate Information.pdf 
+2023-11-02 20:54:56,063 - Dhanunjaya - INFO - clicked the autofill_button
+2023-11-02 20:54:56,096 - Dhanunjaya - INFO -  Company_name : Microsoft 
+2023-11-02 20:54:56,117 - Dhanunjaya - INFO -  job_title : Research Intern - Azure Systems Research 
+2023-11-02 20:54:56,162 - Dhanunjaya - INFO -  job_type : full-time 
+2023-11-02 20:54:58,218 - Dhanunjaya - ERROR -  error in getting the Department 
+2023-11-02 20:54:58,246 - Dhanunjaya - INFO -  workplace_type : Remote 
+2023-11-02 20:54:58,273 - Dhanunjaya - INFO -  location : Oklahoma City, OK
+2023-11-02 20:54:58,324 - Dhanunjaya - INFO - ---- Main Skill Category ---- : AI, Machine Learning and Deep Learning Skills 
+2023-11-02 20:54:58,397 - Dhanunjaya - INFO -  Sub Skills : Machine Learning 
+2023-11-02 20:54:58,397 - Dhanunjaya - INFO -  Sub Skills : PyTorch 
+2023-11-02 20:54:58,397 - Dhanunjaya - INFO -  Sub Skills : Computer Vision 
+2023-11-02 20:54:58,397 - Dhanunjaya - INFO -  Sub Skills : Natural Language Processing 
+2023-11-02 20:54:58,397 - Dhanunjaya - INFO -  Sub Skills : Transformer models 
+2023-11-02 20:54:58,420 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Computer Science, Programming and Automation Skills 
+2023-11-02 20:54:58,441 - Dhanunjaya - INFO -  Sub Skills : Python 
+2023-11-02 20:54:58,462 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Data Analysis, Visualization and Predictive Modeling Skills 
+2023-11-02 20:54:58,482 - Dhanunjaya - INFO -  Sub Skills : scikit-learn 
+2023-11-02 20:54:58,502 - Dhanunjaya - INFO - ---- Main Skill Category ---- : API Development and Integration Expertise 
+2023-11-02 20:54:58,524 - Dhanunjaya - INFO -  Sub Skills : REST APIs 
+2023-11-02 20:54:58,545 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Advanced Infrastructure and Distributed Systems Development 
+2023-11-02 20:54:58,597 - Dhanunjaya - INFO -  Sub Skills : Microservices 
+2023-11-02 20:54:58,597 - Dhanunjaya - INFO -  Sub Skills : Continuous Integration 
+2023-11-02 20:54:58,597 - Dhanunjaya - INFO -  Sub Skills : Jenkins 
+2023-11-02 20:54:58,597 - Dhanunjaya - INFO -  Sub Skills : Azure DevOps 
+2023-11-02 20:54:58,616 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Misc 
+2023-11-02 20:54:58,648 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Misc 
+2023-11-02 20:54:58,818 - Dhanunjaya - INFO -  Currency : $ 
+2023-11-02 20:54:58,818 - Dhanunjaya - INFO -  Minimum Salary :  
+2023-11-02 20:54:58,818 - Dhanunjaya - INFO -  Maximum Salary :  
+2023-11-02 20:54:58,819 - Dhanunjaya - INFO -  Salary Duration : Per year 
+2023-11-02 20:55:00,878 - Dhanunjaya - ERROR -  error in getting the Benefits_offered 
+2023-11-02 20:55:00,905 - Dhanunjaya - INFO -  Minimum Years of experience:  
+2023-11-02 20:55:00,931 - Dhanunjaya - INFO -  Minimum Years of experience:  
+2023-11-02 20:55:01,010 - Dhanunjaya - INFO -  Notice period : Select 
+2023-11-02 20:55:01,040 - Dhanunjaya - INFO -  Roles_and_responsibilities : - Collaborate with cross-functional teams to understand business requirements and translate them into technical solutions that leverage machine learning. - Design, build, and maintain complex machine learning systems, models, and pipelines for production. - Build reusable libraries and frameworks for serving machine learning models as performant APIs. - Evaluate new machine learning research and technologies and determine feasibility for adoption. - Establish MLOps best practices for machine learning development, testing, deployment, and maintenance. - Improve existing machine learning systems by enhancing models, algorithms, and pipelines. - Identify opportunities where machine learning can add value to business goals and operations. - Communicate complex machine learning concepts clearly and simply to non-technical audiences. - Contribute to documentation, knowledge sharing, and training to ensure the transfer of technical knowledge within the team. 
+2023-11-02 20:55:01,070 - Dhanunjaya - INFO - Job Parser took 1.70 seconds for parsing the job_descriptions
+2023-11-02 20:55:01,281 - Dhanunjaya - INFO - Save and exited Active clicked
+2023-11-02 20:55:01,395 - Dhanunjaya - INFO - Publish clicked
+2023-11-02 20:55:01,395 - Dhanunjaya - INFO - Element lookup took 7.14 seconds
+2023-11-02 20:55:04,447 - Dhanunjaya - INFO -  --------------------
+2023-11-02 20:55:04,447 - Dhanunjaya - INFO -  ----------- Success Test case -- job parsed successfully ---------
+2023-11-02 20:55:04,448 - Dhanunjaya - INFO -  --------------------
+2023-11-02 20:55:06,784 - Dhanunjaya - INFO -  clicked the job_title_element 
+2023-11-02 20:55:08,895 - Dhanunjaya - INFO -  clicked the menu 
+2023-11-02 20:55:09,002 - Dhanunjaya - INFO -  clicked the delete_job_element 
+2023-11-02 20:55:13,665 - Dhanunjaya - INFO -  clicked the confirm_button 
+2023-11-02 20:55:13,665 - Dhanunjaya - INFO -  sucessfully deleted the job title Research Intern - Azure Systems Research 
+2023-11-02 20:55:13,665 - Dhanunjaya - INFO -   ---------------------------------------------------------  
+2023-11-02 20:55:13,665 - Dhanunjaya - INFO -  Name the test case :  ------ normal job parsing without handling any errors --------  
+2023-11-02 20:55:13,665 - Dhanunjaya - INFO - 
+2023-11-02 20:55:13,665 - Dhanunjaya - INFO - entered the post_new_job
+2023-11-02 20:55:19,176 - Dhanunjaya - INFO - Clicked 'Post new job'
+2023-11-02 20:55:19,336 - Dhanunjaya - INFO - Clicked 'Upload document'
+2023-11-02 20:55:21,696 - Dhanunjaya - INFO - Entered file path and confirmed
+2023-11-02 20:55:22,096 - Dhanunjaya - INFO -  Uploaded the document : TC017 PDF with No skills.pdf 
+2023-11-02 20:55:24,447 - Dhanunjaya - INFO - clicked the autofill_button
+2023-11-02 20:55:24,472 - Dhanunjaya - INFO -  Company_name : First Tek, Inc. 
+2023-11-02 20:55:24,494 - Dhanunjaya - INFO -  job_title : Data Manager,Data Engineer 
+2023-11-02 20:55:24,543 - Dhanunjaya - INFO -  job_type : contract 
+2023-11-02 20:55:26,603 - Dhanunjaya - ERROR -  error in getting the Department 
+2023-11-02 20:55:26,643 - Dhanunjaya - INFO -  workplace_type : Hybrid 
+2023-11-02 20:55:26,681 - Dhanunjaya - INFO -  location : New York County, NY
+2023-11-02 20:55:26,730 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Data Management and Big Data Processing Skills 
+2023-11-02 20:55:26,766 - Dhanunjaya - INFO -  Sub Skills : Data Engineering 
+2023-11-02 20:55:26,766 - Dhanunjaya - INFO -  Sub Skills : ETL 
+2023-11-02 20:55:26,787 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Advanced Infrastructure and Distributed Systems Development 
+2023-11-02 20:55:26,831 - Dhanunjaya - INFO -  Sub Skills : DevOps 
+2023-11-02 20:55:26,831 - Dhanunjaya - INFO -  Sub Skills : Automated deployment 
+2023-11-02 20:55:26,831 - Dhanunjaya - INFO -  Sub Skills : CI/CD setup 
+2023-11-02 20:55:26,854 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Software Development and Debugging Skills 
+2023-11-02 20:55:26,891 - Dhanunjaya - INFO -  Sub Skills : Conducting code reviews 
+2023-11-02 20:55:26,891 - Dhanunjaya - INFO -  Sub Skills : Automatic test coverage 
+2023-11-02 20:55:26,914 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Personal Development Skills 
+2023-11-02 20:55:26,935 - Dhanunjaya - INFO -  Sub Skills : Problem-solving skills 
+2023-11-02 20:55:26,963 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Cloud Computing and Platform Services 
+2023-11-02 20:55:26,983 - Dhanunjaya - INFO -  Sub Skills : Cloud Platform data pipeline solutions 
+2023-11-02 20:55:27,003 - Dhanunjaya - INFO - ---- Main Skill Category ---- : API Development and Integration Expertise 
+2023-11-02 20:55:27,026 - Dhanunjaya - INFO -  Sub Skills : REST API authoring 
+2023-11-02 20:55:27,046 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Misc 
+2023-11-02 20:55:27,194 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Misc 
+2023-11-02 20:55:27,220 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Misc 
+2023-11-02 20:55:27,245 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Misc 
+2023-11-02 20:55:27,367 - Dhanunjaya - INFO -  Currency : $ 
+2023-11-02 20:55:27,367 - Dhanunjaya - INFO -  Minimum Salary :  
+2023-11-02 20:55:27,367 - Dhanunjaya - INFO -  Maximum Salary :  
+2023-11-02 20:55:27,367 - Dhanunjaya - INFO -  Salary Duration : Per year 
+2023-11-02 20:55:29,437 - Dhanunjaya - ERROR -  error in getting the Benefits_offered 
+2023-11-02 20:55:29,469 - Dhanunjaya - INFO -  Minimum Years of experience:  
+2023-11-02 20:55:29,501 - Dhanunjaya - INFO -  Minimum Years of experience:  
+2023-11-02 20:55:29,569 - Dhanunjaya - INFO -  Notice period : Select 
+2023-11-02 20:55:29,596 - Dhanunjaya - INFO -  Roles_and_responsibilities : - Member of the Business Date Engineering team, work to deliver Data Ingest, Enrich Pipelines, and Access APIs using common cloud technologies. - Work with consumers to understand the data requirements and deliver data contracts with well-defined SLIs to track SLA agreements. - Harness modern application best practices with code quality, API test coverages, Agile Development, DevOps, and Observability and support. - Maintain programming standards and ensure the usage of the pattern, template for API Proxy. - Conduct code reviews and automatic test coverage. - Standardize the CI,CD setup for API management tools and automated deployment. - Utilize problem-solving skills to help your peers in the research and selection of tools, products, and frameworks (which is vital to support business initiatives). 
+2023-11-02 20:55:29,618 - Dhanunjaya - INFO - experience_and_education : N/A
+2023-11-02 20:55:29,618 - Dhanunjaya - INFO - Job Parser took 2.08 seconds for parsing the job_descriptions
+2023-11-02 20:55:29,809 - Dhanunjaya - INFO - Save and exited Active clicked
+2023-11-02 20:55:29,923 - Dhanunjaya - INFO - Publish clicked
+2023-11-02 20:55:29,923 - Dhanunjaya - INFO - Element lookup took 7.70 seconds
+2023-11-02 20:55:32,933 - Dhanunjaya - INFO -  --------------------
+2023-11-02 20:55:32,933 - Dhanunjaya - INFO -  ----------- Success Test case -- job parsed successfully ---------
+2023-11-02 20:55:32,933 - Dhanunjaya - INFO -  --------------------
+2023-11-02 20:55:35,777 - Dhanunjaya - INFO -  clicked the job_title_element 
+2023-11-02 20:55:37,864 - Dhanunjaya - INFO -  clicked the menu 
+2023-11-02 20:55:37,958 - Dhanunjaya - INFO -  clicked the delete_job_element 
+2023-11-02 20:55:42,580 - Dhanunjaya - INFO -  clicked the confirm_button 
+2023-11-02 20:55:42,580 - Dhanunjaya - INFO -  sucessfully deleted the job title Data Manager,Data Engineer 
+2023-11-02 20:55:42,580 - Dhanunjaya - INFO -   ---------------------------------------------------------  
+2023-11-02 20:55:42,580 - Dhanunjaya - INFO -  Name the test case :  ------ normal job parsing without handling any errors --------  
+2023-11-02 20:55:42,580 - Dhanunjaya - INFO - 
+2023-11-02 20:55:42,580 - Dhanunjaya - INFO - entered the post_new_job
+2023-11-02 20:55:48,135 - Dhanunjaya - INFO - Clicked 'Post new job'
+2023-11-02 20:55:48,247 - Dhanunjaya - INFO - Clicked 'Upload document'
+2023-11-02 20:55:50,613 - Dhanunjaya - INFO - Entered file path and confirmed
+2023-11-02 20:55:51,212 - Dhanunjaya - INFO -  Uploaded the document : TC018 PDF with Inconsistent Formatting.pdf 
+2023-11-02 20:55:53,532 - Dhanunjaya - INFO - clicked the autofill_button
+2023-11-02 20:55:53,552 - Dhanunjaya - INFO -  Company_name : Cr os so ver 
+2023-11-02 20:55:53,575 - Dhanunjaya - INFO -  job_title : Graduate Engineer, Trilogy (Remote) 
+2023-11-02 20:55:53,595 - Dhanunjaya - INFO -  job_description : Certainly, here's the job posting with intentionally poor formatting to make it difficult to read:
+Gr adu at e En gin eer, Tr ilo gy (Re m ot e) - $60,000/ye ar US D
+Cr os so ver � Jaipur, Ra jas tha n, In dia 1 da y ag o � Ov er 50 app lic ants
+Re mot e Fu ll- tim e As so cia te
+5,001-1 0,0 00 em pl oy ees � IT Se rv ic es and IT Co nsu lti ng
+Sk ill s: We b Sc ra pi ng , Py th on ( Pr og ra m mi ng La ng ua ge ), +8 m or e
+Sa ve Sa ve Gr adu at e En gin eer, Tr ilo gy (Re m ot e) - $60,000/ye ar US D at Cr os so ver
+Sh ar e Sh ow m or e op tio ns
+Gr adu at e En gin eer, Tr ilo gy (Re m ot e) - $60,000/ye ar US D
+Cr os so ver Jaipur, Ra jas tha n, In dia Re mot e
+Ea sy Ap ply
+Sa ve Sa ve Gr adu at e En gin eer, Tr ilo gy (Re m ot e) - $60,000/ye ar US D at Cr os so ver
+Sh ow m or e op tio ns
+Ab out th e jo b
+Cr os so ver is th e wo rld 's #1 so urc e of fu ll- tim e re m ot e jo bs. Ou r cl ie nts of fe r to p- tie r pa y fo r to p- tie r ta le nt. We 'r e re cr uit ing th is ro le fo r ou r cl ie nt, Tr ilo gy. Ha ve yo u go t wh at it ta ke s?
+Ar e yo u lo ok in g to ju m pst ar t yo ur te ch ca re er an d ex pe rie nc e fir st ha nd ho w a ne w te ch no lo gy re vo lu tio ni ze s an in du st ry ? Jo in ou r AI -Fir st so ftw ar e en gin eer in g te am , wh er e yo u'll be gi ve n ti m e to tu rn yo ur se lf in to an ex pe rt on AI wh ile in co rp or at in g it in to ev er yt hi ng yo u do . Yo u� ll be co nt ri bu tin g to pi on ee rin g Ed Te ch pr oj ec ts by cr af tin g AI -po we re d so lu tio ns to en ha nc e im pa ct fu l le ar ni ng ap ps an d sh ap in g th e fu tu re of ed uc at io n. Th is ro le de m an ds co di ng pr of ici en cy , se lf- or ga ni za tio n an d pr ob le m -so lv in g sk il ls , an d, m os t im po rt an tl y , a pa ss io n fo r AI.
+ Wh at Yo u Wi ll Be Do in g
+AI Ex pe rt is e Gr ow th: M as te rin g on lin e AI cl as se s an d to pi cs re la te d to AI ag en ts , pr om pt in g te ch ni qu es , pr ac tic al us e of ch ai n of th ou gh t, fin e- tu ni ng , ve ct or da ta ba se s, an d m or e, to co nt in uo us ly de ve lo p AI pr of ici en cy .
+AI De ve lo pm en t: Bu il di ng en d- to -en d au to m at ed sy st em s an d le ar ni ng ap ps th at le ve ra ge AI ex cl us iv el y, wi th no hu m an de ci si on s al lo w ed, to en ha nc e ed uc at io na l ex pe ri en ce s an d ou tc om es.
+AI Kn ow le dg e Cu ra tio n: St ay in g on to p of th e la te st de ve lo pm en ts in AI by e. g. cu ra tin g th e be st X (Tw it te r) co nt en t th at pu sh es th e bo un da ri es of th e to pi c an d di se m in at in g it to th e re st of th e co m pa ny
+AI Te st in g: Tr yi ng ou t th e la te st AI so lu tio ns on th e m ar ke t. Fr om GP T4 Vi si on to Am az on Co de Wh is pe re r, yo u�ll be am on gs t th e fir st to in co rp or at e th em in to yo ur wo rk fl ow an d ev al ua te th ei r us ef ul ne ss
+AI In fr as tr uc tu re Ev al ua tio n: Fi nd in g th e be st wa ys to ru n an d ho st AI so lu tio ns wi th in th e AW S ec os ys te m an d be yo nd
+Pr ob le m De co m po si tio n: An al yz in g co m pl ex de ci si on s th at AI ca nno t ( ye t) m ak e, br ea ki ng th em do wn in to de te rm in is tic de ci si on tr ee s, an d fi nd in g in no va ti ve wa ys to in vo lv e AI in th os e pr oc es se s
+Ed Te ch Pr oj ec t De ve lo pm en t: Co ll ab or at in g on AI -d ri ve n pr oj ec ts su ch as st ud en t- fa ci ng ch at bo ts , AI -po we re d wr it in g ap ps , AI -le d le ar ni ng da ta an al ys is , an d m or e, to im pr ov e th e ed uc at io na l la nd sc ap e
+Wh at Yo u Wo n�t Be Do in g
+Do in g re pe tit iv e ta sk s - no tw o pr ob le m s ar e th e sa m e
+Wr it in g yo ur ow n co de - AI w ill be wr it in g 90 % of it wh il e yo u�re fo cu se d on so lu tio n de si gn an d in st ru ct in g it
+Ba si c Re qu ir em en ts
+Gr adu at e En gin eer ke y re sp on si bi li tie s
+A pa ss io n fo r an d ba si c un de rs ta
+nd in g of ge ne ra tiv e AI , La rg e La ng ua ge M od el s, Pr om pt En gi ne er in g, an d th e wi de r AI ec os ys te m
+ Pr of ici en cy in Py th on ( or ab le to be co m e pr of ici en t in
+Ab le to se t up we b sc ra pi ng fo r co nt en t co ll ec tio n
+Co m fo rt wo rk in g in a fa st- pa ce d en vi ro nm en t wi th hi gh st an da rd s fo r ou tp ut s
+Ab le to wo rk in de pe nd en tl y , se lf- or ga ni ze , an d m ot iv at e
+Co m fo rt wo rk in g in a fa st- pa ce d en vi ro nm en t wi th hi gh st an da rd s fo r ou tp ut s
+Ni ce -to -h av e Re qu ir em en ts
+Pr of ici en cy in HT M L/ CS S/ Ja va Sc rip t or an y ot he r Fr on te nd we b de ve lo pm en t fr am ew or k
+Ab ou t Tr ilo gy
+Hu nd re ds of so ftw ar e bu sin es se s ru n on th e Tr ilo gy Bu sin es s Pl at fo rm . Fo r th re e de ca de s, Tr ilo gy ha s be en kn ow n fo r 3 th in gs : Re le nt le ss ly se ek in g to p ta le nt, In no va tin g ne w te ch no lo gy , an d in cu ba tin g ne w bu sin es se s. Ou r te ch no lo gi ca l in no va tio n is sp ea rh ea de d by a pa ss io n fo r si m pl e cu st om er -fa ci ng de si gn s. Ou r in cu ba tio n of ne w bu sin es se s ra ng es fr om en ti re ly ne w m oo n- sh ot id ea s to re ar ch ite ct in g ex is tin g pr oj ec ts fo r to da y's m od er n cl ou d- ba se d st ac k. Tr ilo gy is a pl ac e wh er e yo u ca n be su rr ou nd ed wi th gr ea t pe op le , be pr ou d of do in g gr ea t wo rk , an d gr ow yo ur ca re er by le ap s an d bo un ds.
+Th er e is so m uc h to co ve r fo r th is ex ci tin g ro le, an d sp ac e he re is li m ite d. Hi t th e Ap pl y bu tto n if yo u fo un d th is in te re st in g an d wa nt to le ar n m or e. We lo ok fo rw ar d to m ee tin g yo u!
+W or ki ng wi th Cr os so ver
+Th is is a fu ll- tim e (40 ho ur s pe r we ek ), lo ng- te rm po si tio n. Th e po si tio n is im m ed ia te ly av ai la bl e an d re qu ir es en te rin g in to an in de pe nd en t co nt ra ct or ag re em en t wi th Cr os so ver . Th e co m pe ns at io n le ve l fo r th is ro le is $30 US D/ ho ur, wh ic h eq ua te s to $60 ,0 00 US D/ ye ar as su m in g 40 ho ur s pe r we ek an d 50 we ek s pe r ye ar . Th e pa ym en t pe ri od is we ek ly. Co ns ul t ww w. cr os so ve r. co m/ he lp -an d- fa qs fo r m or e de ta il s on th is to pi c. 
+2023-11-02 20:55:53,617 - Dhanunjaya - INFO -  job_type : full-time 
+2023-11-02 20:55:55,666 - Dhanunjaya - ERROR -  error in getting the Department 
+2023-11-02 20:55:55,685 - Dhanunjaya - INFO -  workplace_type : Remote 
+2023-11-02 20:55:55,708 - Dhanunjaya - INFO -  location : Jaipur, Rajasthan, India
+2023-11-02 20:55:55,736 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Computer Science, Programming and Automation Skills 
+2023-11-02 20:55:55,756 - Dhanunjaya - INFO -  Sub Skills : Proficiency in Python 
+2023-11-02 20:55:55,775 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Web Development & Programming Skills 
+2023-11-02 20:55:55,795 - Dhanunjaya - INFO -  Sub Skills : Web Scraping 
+2023-11-02 20:55:55,814 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Personal Development Skills 
+2023-11-02 20:55:55,843 - Dhanunjaya - INFO -  Sub Skills : Problem Solving 
+2023-11-02 20:55:55,843 - Dhanunjaya - INFO -  Sub Skills : Independent Working 
+2023-11-02 20:55:55,866 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Misc 
+2023-11-02 20:55:55,895 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Misc 
+2023-11-02 20:55:55,923 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Misc 
+2023-11-02 20:55:55,950 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Misc 
+2023-11-02 20:55:56,075 - Dhanunjaya - INFO -  Currency : $ 
+2023-11-02 20:55:56,075 - Dhanunjaya - INFO -  Minimum Salary :  
+2023-11-02 20:55:56,075 - Dhanunjaya - INFO -  Maximum Salary :  
+2023-11-02 20:55:56,076 - Dhanunjaya - INFO -  Salary Duration : Per year 
+2023-11-02 20:55:58,135 - Dhanunjaya - ERROR -  error in getting the Benefits_offered 
+2023-11-02 20:55:58,157 - Dhanunjaya - INFO -  Minimum Years of experience:  
+2023-11-02 20:55:58,178 - Dhanunjaya - INFO -  Minimum Years of experience:  
+2023-11-02 20:55:58,228 - Dhanunjaya - INFO -  Notice period : Select 
+2023-11-02 20:55:58,248 - Dhanunjaya - INFO -  Roles_and_responsibilities : N/A 
+2023-11-02 20:55:58,271 - Dhanunjaya - INFO - experience_and_education : N/A
+2023-11-02 20:55:58,272 - Dhanunjaya - INFO - Job Parser took 2.10 seconds for parsing the job_descriptions
+2023-11-02 20:55:58,418 - Dhanunjaya - INFO - Save and exited Active clicked
+2023-11-02 20:55:58,500 - Dhanunjaya - INFO - Publish clicked
+2023-11-02 20:55:58,500 - Dhanunjaya - INFO - Element lookup took 7.15 seconds
+2023-11-02 20:56:01,508 - Dhanunjaya - INFO -  --------------------
+2023-11-02 20:56:01,508 - Dhanunjaya - INFO -  ----------- Success Test case -- job parsed successfully ---------
+2023-11-02 20:56:01,509 - Dhanunjaya - INFO -  --------------------
+2023-11-02 20:56:03,885 - Dhanunjaya - INFO -  clicked the job_title_element 
+2023-11-02 20:56:05,994 - Dhanunjaya - INFO -  clicked the menu 
+2023-11-02 20:56:06,065 - Dhanunjaya - INFO -  clicked the delete_job_element 
+2023-11-02 20:56:10,667 - Dhanunjaya - INFO -  clicked the confirm_button 
+2023-11-02 20:56:10,667 - Dhanunjaya - INFO -  sucessfully deleted the job title Graduate Engineer, Trilogy (Remote) 
+2023-11-02 20:56:10,667 - Dhanunjaya - INFO -   ---------------------------------------------------------  
+2023-11-02 20:56:10,667 - Dhanunjaya - INFO -  Name the test case :  ------ normal job parsing without handling any errors --------  
+2023-11-02 20:56:10,667 - Dhanunjaya - INFO - 
+2023-11-02 20:56:10,667 - Dhanunjaya - INFO - entered the post_new_job
+2023-11-02 20:56:16,278 - Dhanunjaya - INFO - Clicked 'Post new job'
+2023-11-02 20:56:16,417 - Dhanunjaya - INFO - Clicked 'Upload document'
+2023-11-02 20:56:18,729 - Dhanunjaya - INFO - Entered file path and confirmed
+2023-11-02 20:56:19,483 - Dhanunjaya - INFO -  Uploaded the document : TC019 PDF with Multiple Languages.pdf 
+2023-11-02 20:56:23,790 - Dhanunjaya - INFO - clicked the autofill_button
+2023-11-02 20:56:23,816 - Dhanunjaya - INFO -  Company_name : First Tek, Inc. 
+2023-11-02 20:56:23,897 - Dhanunjaya - INFO -  job_type : full-time 
+2023-11-02 20:56:25,991 - Dhanunjaya - ERROR -  error in getting the Department 
+2023-11-02 20:56:28,063 - Dhanunjaya - ERROR -  error in getting the workplace_type 
+2023-11-02 20:56:28,089 - Dhanunjaya - INFO -  location : New York County, NY
+2023-11-02 20:56:28,124 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Big Data and Cloud-Based Storage Technologies 
+2023-11-02 20:56:28,185 - Dhanunjaya - INFO -  Sub Skills : Snowflake 
+2023-11-02 20:56:28,185 - Dhanunjaya - INFO -  Sub Skills : Spark 
+2023-11-02 20:56:28,185 - Dhanunjaya - INFO -  Sub Skills : Kafka 
+2023-11-02 20:56:28,186 - Dhanunjaya - INFO -  Sub Skills : GBQ 
+2023-11-02 20:56:28,186 - Dhanunjaya - INFO -  Sub Skills : Hadoop 
+2023-11-02 20:56:28,202 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Computer Science, Programming and Automation Skills 
+2023-11-02 20:56:28,218 - Dhanunjaya - INFO -  Sub Skills : Python 
+2023-11-02 20:56:28,234 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Data Management and Big Data Processing Skills 
+2023-11-02 20:56:28,252 - Dhanunjaya - INFO -  Sub Skills : SQL 
+2023-11-02 20:56:28,270 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Cloud Computing and Platform Services 
+2023-11-02 20:56:28,287 - Dhanunjaya - INFO -  Sub Skills : Azure 
+2023-11-02 20:56:28,303 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Data Analysis, Visualization and Predictive Modeling Skills 
+2023-11-02 20:56:28,327 - Dhanunjaya - INFO -  Sub Skills : Tableau 
+2023-11-02 20:56:28,328 - Dhanunjaya - INFO -  Sub Skills : Alteryx 
+2023-11-02 20:56:28,344 - Dhanunjaya - INFO - ---- Main Skill Category ---- : API Development and Integration Expertise 
+2023-11-02 20:56:28,360 - Dhanunjaya - INFO -  Sub Skills : API Design 
+2023-11-02 20:56:28,379 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Web Development & Programming Skills 
+2023-11-02 20:56:28,404 - Dhanunjaya - INFO -  Sub Skills : Web Technologies 
+2023-11-02 20:56:28,404 - Dhanunjaya - INFO -  Sub Skills : Object-Oriented Code 
+2023-11-02 20:56:28,420 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Software Development and Debugging Skills 
+2023-11-02 20:56:28,436 - Dhanunjaya - INFO -  Sub Skills : Test-Driven Development 
+2023-11-02 20:56:28,452 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Misc 
+2023-11-02 20:56:28,476 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Misc 
+2023-11-02 20:56:28,626 - Dhanunjaya - INFO -  Currency : $ 
+2023-11-02 20:56:28,627 - Dhanunjaya - INFO -  Minimum Salary :  
+2023-11-02 20:56:28,627 - Dhanunjaya - INFO -  Maximum Salary :  
+2023-11-02 20:56:28,627 - Dhanunjaya - INFO -  Salary Duration : Per year 
+2023-11-02 20:56:30,677 - Dhanunjaya - ERROR -  error in getting the Benefits_offered 
+2023-11-02 20:56:30,703 - Dhanunjaya - INFO -  Minimum Years of experience:  
+2023-11-02 20:56:30,730 - Dhanunjaya - INFO -  Minimum Years of experience:  
+2023-11-02 20:56:30,799 - Dhanunjaya - INFO -  Notice period : Select 
+2023-11-02 20:56:30,826 - Dhanunjaya - INFO -  Roles_and_responsibilities : - Membre de l'�quipe d'ing�nierie des donn�es m�tier, travailler pour fournir des pipelines d'ingestion, enrichissement de donn�es et des API d'acc�s � l'aide de technologies cloud courantes. - Travailler avec les consommateurs pour comprendre les besoins en mati�re de donn�es et fournir des contrats de donn�es avec des SLI bien d�finis pour suivre les accords de niveau de service. - Exploiter les meilleures pratiques modernes en mati�re d'application, avec une qualit� de code, une couverture de test d'API, un d�veloppement agile, DevOps et une observabilit� et un support. - Maintenir les normes de programmation et garantir l'utilisation du mod�le, patron pour le proxy API. - Effectuer des examens de code et une couverture de test automatique. - Normaliser la configuration CI, CD pour les outils de gestion d'API et le d�ploiement automatis�. - Utiliser des comp�tences de r�solution de probl�mes pour aider vos pairs dans la recherche et la s�lection d'outils, de produits et de cadres (ce qui est essentiel pour soutenir les initiatives commerciales). - Concevoir un code orient� objet, modulaire, propre et maintenable et cr�er des politiques en Python. - Exp�rience en d�veloppement pilot� par les tests et en automatisation des tests d'API. - Dossier de suivi de la totalit� du cycle de vie et du d�veloppement de projets, ainsi que des activit�s de support post-mise en �uvre. - Exp�rience pratique de la conception et du d�veloppement d'API REST � haut volume en utilisant des protocoles d'API et des formats de donn�es. 
+2023-11-02 20:56:30,851 - Dhanunjaya - INFO - experience_and_education : 5+ ann�es d'exp�rience av�r�e dans l'industrie; dipl�me de bachelier en TI ou domaines connexes.
+2023-11-02 20:56:30,851 - Dhanunjaya - INFO - Job Parser took 4.12 seconds for parsing the job_descriptions
+2023-11-02 20:56:31,012 - Dhanunjaya - INFO - Save and exited Active clicked
+2023-11-02 20:56:31,119 - Dhanunjaya - INFO - Publish clicked
+2023-11-02 20:56:31,119 - Dhanunjaya - INFO - Element lookup took 11.54 seconds
+2023-11-02 20:56:34,128 - Dhanunjaya - INFO -  --------------------
+2023-11-02 20:56:34,128 - Dhanunjaya - INFO -  ----------- Success Test case -- job parsed successfully ---------
+2023-11-02 20:56:34,128 - Dhanunjaya - INFO -  --------------------
+2023-11-02 20:56:36,865 - Dhanunjaya - INFO -  clicked the job_title_element 
+2023-11-02 20:56:38,941 - Dhanunjaya - INFO -  clicked the menu 
+2023-11-02 20:56:39,033 - Dhanunjaya - INFO -  clicked the delete_job_element 
+2023-11-02 20:56:43,682 - Dhanunjaya - INFO -  clicked the confirm_button 
+2023-11-02 20:56:43,684 - Dhanunjaya - INFO -   ---------------------------------------------------------  
+2023-11-02 20:56:43,684 - Dhanunjaya - INFO -  Name the test case :  ------ normal job parsing without handling any errors --------  
+2023-11-02 20:56:43,684 - Dhanunjaya - INFO - 
+2023-11-02 20:56:43,684 - Dhanunjaya - INFO - entered the post_new_job
+2023-11-02 20:56:49,304 - Dhanunjaya - INFO - Clicked 'Post new job'
+2023-11-02 20:56:49,396 - Dhanunjaya - INFO - Clicked 'Upload document'
+2023-11-02 20:56:51,757 - Dhanunjaya - INFO - Entered file path and confirmed
+2023-11-02 20:56:52,460 - Dhanunjaya - INFO -  Uploaded the document : TC020 PDF with Malformed Text.pdf 
+2023-11-02 20:56:54,729 - Dhanunjaya - INFO - clicked the autofill_button
+2023-11-02 20:56:54,746 - Dhanunjaya - INFO -  Company_name : First Task, Inc. 
+2023-11-02 20:56:54,763 - Dhanunjaya - INFO -  job_title : Data Manager/Data Engineer 
+2023-11-02 20:56:54,808 - Dhanunjaya - INFO -  job_type : full-time 
+2023-11-02 20:56:56,858 - Dhanunjaya - ERROR -  error in getting the Department 
+2023-11-02 20:56:58,945 - Dhanunjaya - ERROR -  error in getting the workplace_type 
+2023-11-02 20:57:00,999 - Dhanunjaya - ERROR -  error in getting the location 
+2023-11-02 20:57:01,157 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Big Data and Cloud-Based Storage Technologies 
+2023-11-02 20:57:01,211 - Dhanunjaya - INFO -  Sub Skills : Snowflake 
+2023-11-02 20:57:01,211 - Dhanunjaya - INFO -  Sub Skills : GBQ 
+2023-11-02 20:57:01,211 - Dhanunjaya - INFO -  Sub Skills : Hadoop 
+2023-11-02 20:57:01,228 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Data Analysis, Visualization and Predictive Modeling Skills 
+2023-11-02 20:57:01,254 - Dhanunjaya - INFO -  Sub Skills : Tableau 
+2023-11-02 20:57:01,254 - Dhanunjaya - INFO -  Sub Skills : Alteryx 
+2023-11-02 20:57:01,271 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Web Development & Programming Skills 
+2023-11-02 20:57:01,296 - Dhanunjaya - INFO -  Sub Skills : Web Technologies 
+2023-11-02 20:57:01,296 - Dhanunjaya - INFO -  Sub Skills : Object-Oriented Programming 
+2023-11-02 20:57:01,312 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Software Development and Debugging Skills 
+2023-11-02 20:57:01,329 - Dhanunjaya - INFO -  Sub Skills : Test-Driven Development 
+2023-11-02 20:57:01,346 - Dhanunjaya - INFO - ---- Main Skill Category ---- : API Development and Integration Expertise 
+2023-11-02 20:57:01,362 - Dhanunjaya - INFO -  Sub Skills : REST using API Protocols and Data Formats 
+2023-11-02 20:57:01,379 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Misc 
+2023-11-02 20:57:01,402 - Dhanunjaya - INFO - ---- Main Skill Category ---- : Misc 
+2023-11-02 20:57:01,531 - Dhanunjaya - INFO -  Currency : $ 
+2023-11-02 20:57:01,531 - Dhanunjaya - INFO -  Minimum Salary :  
+2023-11-02 20:57:01,531 - Dhanunjaya - INFO -  Maximum Salary :  
+2023-11-02 20:57:01,531 - Dhanunjaya - INFO -  Salary Duration : Per year 
+2023-11-02 20:57:03,611 - Dhanunjaya - ERROR -  error in getting the Benefits_offered 
+2023-11-02 20:57:03,632 - Dhanunjaya - INFO -  Minimum Years of experience:  
+2023-11-02 20:57:03,661 - Dhanunjaya - INFO -  Minimum Years of experience:  
+2023-11-02 20:57:03,718 - Dhanunjaya - INFO -  Notice period : Select 
+2023-11-02 20:57:03,740 - Dhanunjaya - INFO -  Roles_and_responsibilities : - Develop and implement data investigation and analytics techniques - Perform data analysis and interpretation using statistical tools - Collaborate with business and IT teams to investigate data requirements and prioritize projects - Maintain data governance standards and ensure data integrity - Create and maintain data models and documentation - Conduct code reviews and automate testing processes - Design and develop databases for data warehousing and business intelligence purposes - Familiarity with API integration and web technologies - Experience in test-driven development and API testing automation - Collaborate with stakeholders to define software requirements and specifications - Participate in the full project life cycle, including post-implementation support activities - Design and develop high-volume REST services using API Protocols and Data Formats - Familiarity with NoSQL/NewSQL databases - Familiarity with Azure API and DB Platforms - Strong documentation capability and adherence to testing and release management standards - Develop and test databases to support Data Warehousing and BI teams - Familiarity with SDLC methodologies and defect tracking systems 
+2023-11-02 20:57:03,764 - Dhanunjaya - INFO - experience_and_education : Bachelor's degree in IT or related field.
+2023-11-02 20:57:03,764 - Dhanunjaya - INFO - Job Parser took 2.12 seconds for parsing the job_descriptions
+2023-11-02 20:57:03,896 - Dhanunjaya - INFO - Save and exited Active clicked
+2023-11-02 20:57:04,099 - Dhanunjaya - INFO - Publish clicked
+2023-11-02 20:57:04,099 - Dhanunjaya - INFO - Element lookup took 11.57 seconds
+2023-11-02 20:57:07,110 - Dhanunjaya - INFO -  --------------------
+2023-11-02 20:57:07,111 - Dhanunjaya - INFO -  ----------- Success Test case -- job parsed successfully ---------
+2023-11-02 20:57:07,111 - Dhanunjaya - INFO -  --------------------
+2023-11-02 20:57:09,730 - Dhanunjaya - INFO -  clicked the job_title_element 
+2023-11-02 20:57:11,842 - Dhanunjaya - INFO -  clicked the menu 
+2023-11-02 20:57:11,928 - Dhanunjaya - INFO -  clicked the delete_job_element 
+2023-11-02 20:57:16,658 - Dhanunjaya - INFO -  clicked the confirm_button 
+2023-11-02 20:57:16,658 - Dhanunjaya - INFO -  sucessfully deleted the job title Data Manager/Data Engineer 
+2023-11-02 20:57:16,659 - Dhanunjaya - INFO -   ---------------------------------------------------------  
+2023-11-02 20:57:16,659 - Dhanunjaya - INFO -  Name the test case :  ------ normal job parsing without handling any errors --------  
+2023-11-02 20:57:16,659 - Dhanunjaya - INFO - 
+2023-11-02 20:57:16,659 - Dhanunjaya - INFO - entered the post_new_job
+2023-11-02 20:57:22,429 - Dhanunjaya - INFO - Clicked 'Post new job'
+2023-11-02 20:57:22,585 - Dhanunjaya - INFO - Clicked 'Upload document'
+2023-11-02 20:57:24,930 - Dhanunjaya - INFO - Entered file path and confirmed
+2023-11-02 20:57:25,509 - Dhanunjaya - ERROR - error in  the document 'Uploading' 
+2023-11-02 20:57:25,531 - Dhanunjaya - ERROR -  error in getting the company_name 
+2023-11-02 20:57:25,545 - Dhanunjaya - ERROR -  error in taking the details from the webpage: Alert Text: Enter the password to open this PDF file.
+Message: unexpected alert open: {Alert text : Enter the password to open this PDF file.}
+  (Session info: chrome=118.0.5993.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF775897D12+55474]
+	(No symbol) [0x00007FF7758077C2]
+	(No symbol) [0x00007FF7756BE0EB]
+	(No symbol) [0x00007FF775738132]
+	(No symbol) [0x00007FF77571EF33]
+	(No symbol) [0x00007FF7756F3D41]
+	(No symbol) [0x00007FF7756F4F84]
+	GetHandleVerifier [0x00007FF775BFB762+3609346]
+	GetHandleVerifier [0x00007FF775C51A80+3962400]
+	GetHandleVerifier [0x00007FF775C49F0F+3930799]
+	GetHandleVerifier [0x00007FF775933CA6+694342]
+	(No symbol) [0x00007FF775812218]
+	(No symbol) [0x00007FF77580E484]
+	(No symbol) [0x00007FF77580E5B2]
+	(No symbol) [0x00007FF7757FEE13]
+	BaseThreadInitThunk [0x00007FFBB7E77344+20]
+	RtlUserThreadStart [0x00007FFBB88026B1+33]
+
+2023-11-02 20:57:25,565 - Dhanunjaya - ERROR - error in  Active section Alert Text: Enter the password to open this PDF file.
+Message: unexpected alert open: {Alert text : Enter the password to open this PDF file.}
+  (Session info: chrome=118.0.5993.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF775897D12+55474]
+	(No symbol) [0x00007FF7758077C2]
+	(No symbol) [0x00007FF7756BE0EB]
+	(No symbol) [0x00007FF775738132]
+	(No symbol) [0x00007FF77571EF33]
+	(No symbol) [0x00007FF7756F3D41]
+	(No symbol) [0x00007FF7756F4F84]
+	GetHandleVerifier [0x00007FF775BFB762+3609346]
+	GetHandleVerifier [0x00007FF775C51A80+3962400]
+	GetHandleVerifier [0x00007FF775C49F0F+3930799]
+	GetHandleVerifier [0x00007FF775933CA6+694342]
+	(No symbol) [0x00007FF775812218]
+	(No symbol) [0x00007FF77580E484]
+	(No symbol) [0x00007FF77580E5B2]
+	(No symbol) [0x00007FF7757FEE13]
+	BaseThreadInitThunk [0x00007FFBB7E77344+20]
+	RtlUserThreadStart [0x00007FFBB88026B1+33]
+
+2023-11-02 20:57:25,565 - Dhanunjaya - ERROR -  error in the job parser Alert Text: Enter the password to open this PDF file.
+Message: unexpected alert open: {Alert text : Enter the password to open this PDF file.}
+  (Session info: chrome=118.0.5993.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF775897D12+55474]
+	(No symbol) [0x00007FF7758077C2]
+	(No symbol) [0x00007FF7756BE0EB]
+	(No symbol) [0x00007FF775738132]
+	(No symbol) [0x00007FF77571EF33]
+	(No symbol) [0x00007FF7756F3D41]
+	(No symbol) [0x00007FF7756F4F84]
+	GetHandleVerifier [0x00007FF775BFB762+3609346]
+	GetHandleVerifier [0x00007FF775C51A80+3962400]
+	GetHandleVerifier [0x00007FF775C49F0F+3930799]
+	GetHandleVerifier [0x00007FF775933CA6+694342]
+	(No symbol) [0x00007FF775812218]
+	(No symbol) [0x00007FF77580E484]
+	(No symbol) [0x00007FF77580E5B2]
+	(No symbol) [0x00007FF7757FEE13]
+	BaseThreadInitThunk [0x00007FFBB7E77344+20]
+	RtlUserThreadStart [0x00007FFBB88026B1+33]
+ 
+
+ 
